@@ -1,2 +1,3 @@
-HAMISH YONG
-HAMH
+admin: HAMISH
+admin: YONG
+admin: president for 2025
